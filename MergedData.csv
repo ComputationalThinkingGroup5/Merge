@@ -1,0 +1,163 @@
+country,percentunemployment,pct_GDP_exp,%
+Cambodia,0.3,2.2,1.34
+Niger,0.3,3.5,3.65
+Laos,0.7,2.9,1.46
+Malta,0.78,4.8,0.75
+Belarus,0.8,4.8,-0.29
+Thailand,0.99,4.1,0.26
+Benin,1.0,2.9,3.36
+Vanuatu,1.7,4.5,1.67
+Madagascar,1.8,2.8,2.31
+Macau,2.0,2.7,0.79
+Monaco,2.0,1.5,0.53
+Singapore,2.25,2.9,0.95
+Guatemala,2.3,3.2,1.62
+Switzerland,2.31,5.1,0.65
+Japan,2.36,3.2,-0.37
+Liechtenstein,2.4,2.6,0.73
+Tajikistan,2.4,5.2,1.44
+Papua New Guinea,2.5,1.9,1.61
+Cuba,2.6,12.8,-0.23
+Guinea,2.7,2.3,2.76
+Rwanda,2.7,3.1,1.8
+Czechia,2.8,3.9,0.04
+Liberia,2.8,2.6,2.74
+British Virgin Islands,2.9,2.5,1.96
+Maldives,2.9,4.1,-0.12
+Hong Kong,2.93,3.8,0.2
+Nepal,3.0,5.1,0.81
+Seychelles,3.0,4.4,0.67
+Denmark,3.05,7.8,0.44
+Romania,3.06,3.1,-0.38
+Vietnam,3.11,4.2,1.0
+United Kingdom,3.17,5.4,0.48
+Kyrgyzstan,3.18,6.0,0.9
+Bhutan,3.2,6.9,0.99
+Malaysia,3.3,4.2,1.06
+Netherlands,3.41,5.2,0.37
+Hungary,3.45,4.7,-0.29
+Mexico,3.49,4.5,1.04
+Bahrain,3.6,2.3,0.9
+Iceland,3.62,7.7,0.97
+Andorra,3.7,3.2,-0.1
+Norway,3.72,7.9,0.8
+"Korea, South",3.76,4.3,0.26
+Israel,3.81,6.1,1.45
+United States,3.89,5.0,0.7
+Bolivia,4.0,7.3,1.39
+Burma,4.0,1.9,0.81
+New Zealand,4.13,6.3,1.28
+Cameroon,4.3,3.1,2.77
+Bangladesh,4.4,1.3,0.95
+Timor-Leste,4.4,6.8,2.19
+Fiji,4.5,3.9,0.46
+Saint Kitts and Nevis,4.5,2.6,0.64
+Russia,4.6,4.7,-0.2
+Kazakhstan,4.8,2.6,0.81
+Sri Lanka,4.83,2.1,0.63
+Estonia,4.94,5.0,-0.69
+Ireland,4.98,3.5,0.97
+Germany,4.98,4.9,-0.21
+Moldova,4.99,5.4,-1.1
+Slovakia,5.0,3.9,-0.08
+Azerbaijan,5.0,2.5,0.71
+Uzbekistan,5.0,5.3,0.86
+Australia,5.16,5.1,1.31
+Samoa,5.2,4.2,0.61
+Indonesia,5.31,3.6,0.81
+Belgium,5.36,6.4,0.59
+Luxembourg,5.36,3.6,1.7
+Poland,5.43,4.6,-0.23
+Honduras,5.6,6.1,1.22
+Montserrat,5.6,8.8,0.52
+Bulgaria,5.66,4.1,-0.67
+Canada,5.67,5.3,0.77
+Paraguay,5.7,3.4,1.15
+Ecuador,5.71,5.0,1.16
+Albania,5.83,3.6,0.24
+Pakistan,6.0,2.9,1.99
+Panama,6.14,3.2,1.16
+Latvia,6.14,4.4,-1.1
+Nicaragua,6.4,4.4,0.93
+Comoros,6.5,2.5,1.41
+Portugal,6.55,5.0,-0.23
+Peru,6.58,3.8,0.88
+Angola,6.6,3.4,3.38
+Finland,6.63,6.4,0.26
+Mauritius,6.65,4.7,0.52
+Sweden,6.78,7.6,0.74
+Brunei,6.9,4.4,1.48
+Central African Republic,6.9,1.2,1.79
+Togo,6.9,5.4,2.51
+Bermuda,7.0,1.5,0.36
+El Salvador,7.0,3.6,0.67
+Cyprus,7.07,5.8,1.11
+Chile,7.22,5.4,0.68
+Austria,7.35,5.4,0.32
+Uruguay,7.6,5.0,0.26
+Slovenia,7.64,4.8,-0.03
+Aruba,7.7,5.5,1.17
+Jamaica,7.72,5.2,0.06
+Mali,7.9,3.8,2.97
+Mongolia,8.0,4.1,0.93
+Croatia,8.07,3.9,-0.48
+Costa Rica,8.1,7.0,1.04
+San Marino,8.1,3.6,0.63
+France,8.12,5.5,0.33
+Lithuania,8.4,3.8,-1.04
+India,8.5,3.8,1.04
+Ukraine,8.89,5.4,-0.49
+Qatar,8.9,2.7,1.23
+Belize,9.0,7.6,1.67
+Cabo Verde,9.0,5.2,1.24
+Cote d'Ivoire,9.4,3.3,2.21
+Uganda,9.4,2.1,3.31
+Lebanon,9.7,2.5,0.68
+Argentina,9.84,5.5,0.84
+Italy,9.88,4.0,0.09
+Turks and Caicos Islands,10.0,2.9,1.91
+Barbados,10.1,4.4,0.28
+Mauritania,10.2,1.9,2.02
+Tanzania,10.3,3.4,2.81
+Colombia,10.5,4.5,1.04
+Puerto Rico,10.8,6.1,-1.46
+Turkmenistan,11.0,3.1,1.02
+Guyana,11.1,5.5,0.19
+Zimbabwe,11.3,5.9,1.94
+Georgia,11.8,3.5,0.05
+Iran,11.8,4.0,1.03
+Ghana,11.9,4.0,2.26
+Brazil,11.93,6.3,0.65
+Sao Tome and Principe,12.2,5.1,1.5
+Curacao,13.0,4.9,0.33
+Cook Islands,13.1,4.7,-2.46
+Turkey,13.68,4.3,0.7
+Serbia,14.1,3.6,-0.48
+Spain,14.13,4.2,-0.03
+Sierra Leone,15.0,7.7,2.44
+Zambia,15.0,4.6,2.93
+Tunisia,15.5,6.6,0.75
+"Micronesia, Federated States of",16.2,12.5,-0.64
+Ethiopia,17.5,4.7,2.5
+Saint Vincent and the Grenadines,18.8,5.7,-0.18
+Armenia,18.9,2.7,-0.35
+Jordan,19.1,3.1,0.82
+Saint Lucia,20.0,3.3,0.3
+Malawi,20.4,4.7,2.39
+Dominica,23.0,5.6,0.07
+Afghanistan,23.9,4.1,2.34
+Grenada,24.0,3.2,0.35
+Mozambique,24.5,5.5,2.58
+Gaza Strip,27.9,5.3,2.05
+West Bank,27.9,5.3,1.72
+Eswatini,28.0,7.1,0.77
+Gabon,28.0,2.7,2.41
+Lesotho,28.1,7.0,0.73
+South Africa,28.53,6.5,0.95
+Namibia,34.0,3.1,1.83
+"Congo, Republic of the",36.0,3.5,2.36
+Djibouti,40.0,3.6,2.01
+Kenya,40.0,5.3,2.15
+Haiti,40.6,2.8,1.22
+Senegal,48.0,4.8,2.25
+Burkina Faso,77.0,5.4,2.58
